@@ -1,0 +1,7 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Exclude from Simulation","Exclude from Position Files","Footprint","Datasheet"
+"C1,C2,C3,C4,C5,C6","6","100nF","","","","","${EXCLUDE_FROM_POS_FILES}","Capacitor_SMD:C_0805_2012Metric",""
+"C7","1","47pF","","","","","${EXCLUDE_FROM_POS_FILES}","Capacitor_SMD:C_0805_2012Metric",""
+"IC3,IC4,IC25,IC26","4","SN74LS157DR","","","","","${EXCLUDE_FROM_POS_FILES}","MOD:SOIC127P600X175-16N","https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-19/DSA-379526.pdf"
+"IC23","1","74LS32","","","","","${EXCLUDE_FROM_POS_FILES}","MOD:SOIC127P600X175-14N","http://www.ti.com/lit/gpn/sn74LS32"
+"IC24","1","74LS00","","","","","${EXCLUDE_FROM_POS_FILES}","MOD:SOIC127P600X175-14N","http://www.ti.com/lit/gpn/sn74ls00"
+"J1,J2","2","BBL-120-G-E","","","","","${EXCLUDE_FROM_POS_FILES}","MOD:SAMTEC_BBL-120-G-E",""
