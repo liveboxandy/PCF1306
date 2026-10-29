@@ -6,12 +6,12 @@
 	(paper "A4")
 	(title_block
 		(title "PCF1306 Replacement")
-		(date "2026-10-07")
+		(date "2026-10-29")
 		(rev "1.2")
 		(company "LiveBoxAndy")
 		(comment 1 "Pulled unused inputs (3A/3B) on IC26 to Ground.")
 		(comment 2 "Recreated in Kicad and corrected schematic by LiveBoxAndy 2026")
-		(comment 3 "SMD Design by Dora Yurtoren 2023.")
+		(comment 3 "Initial SMD Design by Bora Yurtoren 2023.")
 		(comment 4 "Initial Creation by Jose Leandro Novellon 2003. ")
 	)
 	(lib_symbols
